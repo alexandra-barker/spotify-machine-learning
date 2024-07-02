@@ -1,0 +1,52 @@
+danceability
+               T    dof alternative  p-val         CI95%   cohen-d BF10  power
+T-test  74.79016  41104   two-sided    0.0  [0.12, 0.13]  0.737771  inf    1.0
+
+energy
+                T    dof alternative          p-val         CI95%   cohen-d        BF10  power
+T-test  36.491146  41104   two-sided  5.987112e-287  [0.08, 0.09]  0.359969  3.331e+282    1.0
+
+key
+               T    dof alternative    p-val        CI95%   cohen-d   BF10     power
+T-test  2.003693  41104   two-sided  0.04511  [0.0, 0.14]  0.019766  0.083  0.517458
+
+loudness
+                T    dof alternative  p-val         CI95%   cohen-d BF10  power
+T-test  60.519444  41104   two-sided    0.0  [2.94, 3.14]  0.596997  inf    1.0
+
+mode
+                T    dof alternative         p-val         CI95%   cohen-d       BF10  power
+T-test  16.192375  41104   two-sided  8.683579e-59  [0.06, 0.08]  0.159731  6.025e+54    1.0
+
+speechiness
+               T    dof alternative         p-val           CI95%   cohen-d       BF10  power
+T-test -8.285943  41104   two-sided  1.206808e-16  [-0.01, -0.01]  0.081737  8.656e+12    1.0
+
+acousticness
+               T    dof alternative  p-val           CI95%   cohen-d BF10  power
+T-test -51.46356  41104   two-sided    0.0  [-0.17, -0.16]  0.507665  inf    1.0
+
+instrumentalness
+                T    dof alternative  p-val           CI95%   cohen-d BF10  power
+T-test -90.506104  41104   two-sided    0.0  [-0.25, -0.24]  0.892802  inf    1.0
+
+liveness
+                T    dof alternative         p-val           CI95%   cohen-d       BF10  power
+T-test -10.443862  41104   two-sided  1.682491e-25  [-0.02, -0.01]  0.103024  4.918e+21    1.0
+
+valence
+                T    dof alternative  p-val         CI95%   cohen-d BF10  power
+T-test  52.603757  41104   two-sided    0.0  [0.13, 0.14]  0.518913  inf    1.0
+
+tempo
+               T    dof alternative         p-val         CI95%   cohen-d      BF10  power
+T-test  6.622785  41104   two-sided  3.568285e-11  [1.34, 2.46]  0.065331  3.65e+07    1.0
+
+chorus_hit
+               T    dof alternative         p-val          CI95%   cohen-d       BF10  power
+T-test -9.419065  41104   two-sided  4.779192e-21  [-2.13, -1.4]  0.092915  1.922e+17    1.0
+
+sections
+                T    dof alternative         p-val           CI95%   cohen-d       BF10  power
+T-test -12.185827  41104   two-sided  4.235950e-34  [-0.68, -0.49]  0.120208  1.667e+30    1.0
+
